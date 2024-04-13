@@ -1,0 +1,11 @@
+import Math_operation
+result_add = Math_operation.add(19,20)
+result_sub = Math_operation.subtract(20,21)
+result_multiply = Math_operation.multiply(10,20)
+result_divide = Math_operation.divide(400,20)
+result_power = Math_operation.power(10,5)
+result_add1 = Math_operation.add1(20,21,22)
+print("Addition result is",result_add)
+print("Subtraction result is",result_sub)
+print("Multiplication result is",result_multiply)
+print("Division result is",result_divide)
